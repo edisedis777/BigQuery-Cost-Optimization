@@ -8,4 +8,4 @@ The `sql/optimization_techniques/partitioning_clustering.sql` script shows how t
 
 ### Limiting Scanned Data
 
-The `sql/optimization_techniques/limiting_scanned_data.sql` script shows how to write queries that limit the amount of data scanned. By using `WHERE` clauses on partitioned and clustered columns, you can significantly reduce the amount of data processed.
+The `sql/optimization_techniques/limiting_scanned_data.sql` script shows how to write queries that limit the amount of data scanned. By using `WHERE` clauses on partitioned and clustered columns, we can significantly reduce the amount of data processed.
