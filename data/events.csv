@@ -1,0 +1,10 @@
+event_timestamp,user_id,event_type,event_data
+2024-10-26 10:00:00,user123,login,{"device": "mobile"}
+2024-10-26 10:15:00,user456,page_view,{"page": "/home"}
+2024-10-26 11:00:00,user123,page_view,{"page": "/product/123"}
+2024-10-26 11:30:00,user789,logout,{}
+2024-10-27 09:00:00,user123,purchase,{"product_id": 123}
+2024-10-27 10:00:00,user456,login,{"device": "desktop"}
+2024-10-27 11:00:00,user789,page_view,{"page": "/cart"}
+2024-10-27 12:00:00,user123,logout,{}
+2024-10-28 10:00:00,user456,page_view,{"page":"/products"}
