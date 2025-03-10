@@ -4,7 +4,7 @@ This repository provides strategies and SQL examples for optimizing Google BigQu
 
 ## Problem
 
-Directly ingesting raw data into GBQ without proper optimization can lead to excessive query costs. GBQ charges based on the amount of data scanned, so inefficient queries can quickly become expensive.
+Directly ingesting raw data into GBQ without proper optimization can lead to excessive query costs. GBQ charges based on the amount of data scanned, so inefficient queries can quickly become very expensive.
 
 ## Solution
 
@@ -30,8 +30,8 @@ This repository offers practical SQL-based solutions and best practices for cost
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
+If you have any suggestions or improvements, please feel free to submit a pull request.
 
 ## License
 
-(Add your preferred license, e.g., MIT)
+MIT
