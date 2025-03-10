@@ -19,8 +19,8 @@ This repository offers practical SQL-based solutions and best practices for cost
 * `README.md`: This file.
 * `sql/optimization_techniques/`: Contains SQL scripts demonstrating various optimization techniques.
 * `sql/example_queries/`: Contains example SQL queries for common data analysis scenarios.
-* `python/`: (Optional) Contains Python scripts for data pre-processing or automation.
-* `data/`: (Optional) Contains example datasets.
+* `python/`: Contains Python scripts for data pre-processing or automation.
+* `data/`: Contains example datasets.
 
 ## Getting Started
 
