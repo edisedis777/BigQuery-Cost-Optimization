@@ -33,5 +33,3 @@ If you have any suggestions or improvements, please feel free to submit a pull r
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-![](https://hit.yhype.me/github/profile?account_id=61211582)
