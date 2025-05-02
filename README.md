@@ -32,4 +32,4 @@ This repository offers practical SQL-based solutions and best practices for cost
 If you have any suggestions or improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
